@@ -12,4 +12,6 @@ latest update: jan 3, 2024
 - See deployed: go to [https://60waves.github.io/Houches2024](https://60waves.github.io/Houches2024)
 
 ---
-The theme employs the [github academic page template](https://academicpages.github.io/) that was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+- The theme employs the [github academic page template](https://academicpages.github.io/) that was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+
+- The  inset picture is taken from [iStock](https://www.istockphoto.com/fr/photo/un-homme-seul-dans-une-combinaison-pagaie-sur-une-planche-de-surf-en-bois-faite-%C3%A0-la-gm1278616799-377502232)
