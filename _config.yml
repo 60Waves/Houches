@@ -11,9 +11,9 @@ title                    : "Physics of wave turbulence and beyond"
 title_separator          : "-"
 name                     : 
 description              : &description "personal description"
-url                      : https://sthalabard.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://60Waves.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sthalabard/60waves"
+repository               : "60Waves/Houches2024"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
