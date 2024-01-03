@@ -5,4 +5,4 @@ This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) f
 # How to
 
 - Run locally: bundle exec jekyll serve
-- 
+- Deployed at: https://60waves.github.io/Houches2024
