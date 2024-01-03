@@ -1,0 +1,18 @@
+# main links links
+main:
+
+  - title: "Participants"
+    url: /participants/
+
+  - title: "Program"
+    url: /program/    
+                
+  - title: "Application"
+    url: /application/
+    
+  - title: "Venue"
+    url: /venue/
+
+  - title: "About"
+    url: /about/
+
