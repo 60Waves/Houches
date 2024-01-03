@@ -1,8 +1,9 @@
 ---
 permalink: /participants/
-title: "Participants"
+title: "Confirmed Participants"
 author_profile: true
 ---
 
 - John Doe
-- Sergey
+
+- Sergey Nazarenko
