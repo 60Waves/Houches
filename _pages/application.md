@@ -4,5 +4,4 @@ title: "Application"
 author_profile: true
 ---
 
-Applications from young collaborators are encouraged.
-More info soon.
+Applications will be opened early February.
