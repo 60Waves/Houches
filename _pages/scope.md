@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Physics of Wave Turbulence and beyond"
+title: "Physics of Wave Turbulence and beyond: From Theory to Data"
 author_profile: true
 redirect_from: 
   - /scope/
