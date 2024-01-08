@@ -13,6 +13,12 @@ author_profile: true
 
 *For more information, please feel free to contact any of the organizers.*
 
-## Partners
-- Université Côte d'Azur
-- Université Paris-Saclay
+## Sponsors
+
+[//]: (- Simons Foundation &nbsp; <img src="{{ site.baseurl }}/images/logo_simons.png" alt="Simons Foundation" style="height: 100px" > )
+[//]: (- Université Côte d'Azur)
+
+<img src="{{ site.baseurl }}/images/logo_simons.png" alt="Simons Foundation" style="height: 100px" > 
+
+<img src="{{ site.baseurl }}/images/logo_uca.png" alt="Université Côte d'Azur" style="height: 100px" > 
+
