@@ -18,7 +18,8 @@ author_profile: true
 [//]: (- Simons Foundation &nbsp; <img src="{{ site.baseurl }}/images/logo_simons.png" alt="Simons Foundation" style="height: 100px" > )
 [//]: (- Université Côte d'Azur)
 
-<img src="{{ site.baseurl }}/images/logo_EPH.svg" alt="Les Houches school of physics" style="height: 100px" > 
+<img src="{{ site.baseurl }}/images/Logos2023.svg" alt="Les Houches school of physics" style="height: 160px" > 
+
 <img src="{{ site.baseurl }}/images/logo_simons.png" alt="Simons Foundation" style="height: 100px" > 
 
 <img src="{{ site.baseurl }}/images/logo_uca.png" alt="Université Côte d'Azur" style="height: 100px" > 
