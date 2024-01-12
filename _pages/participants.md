@@ -19,4 +19,5 @@ author_profile: true
 - Davide Proment
 - Jonathan Skipp
 - Samriddhi Sankar Ray
+- Michal Shavit
 - Ying Zhu 
