@@ -14,3 +14,4 @@ author_profile: true
 - Sergey Nazarenko
 - Miguel Onorato
 - Jonathan Skipp
+- Samriddhi Sankar Ray 
