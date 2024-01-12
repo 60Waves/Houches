@@ -13,5 +13,6 @@ author_profile: true
 - Eric Falcon
 - Sergey Nazarenko
 - Miguel Onorato
+- Davide Proment
 - Jonathan Skipp
 - Samriddhi Sankar Ray 
