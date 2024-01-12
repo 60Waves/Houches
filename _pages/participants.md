@@ -14,6 +14,7 @@ author_profile: true
 - Eric Falcon
 - Gregory Falkovich
 - Sergey Nazarenko
+- Alan Newell
 - Miguel Onorato
 - Davide Proment
 - Jonathan Skipp
