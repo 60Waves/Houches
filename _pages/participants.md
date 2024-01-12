@@ -1,10 +1,16 @@
 ---
 permalink: /participants/
-title: "Confirmed Participants"
+title: "Confirmed lecturers"
 author_profile: true
 ---
-To be announced
-
 [//]: # (- John Doe)
 
 [//]: # (- Sergey Nazarenko)
+
+
+- Pierre Cortet
+- Vincent David
+- Eric Falcon
+- Sergey Nazarenko
+- Miguel Onorato
+- Jonathan Skipp
