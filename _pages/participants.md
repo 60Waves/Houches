@@ -10,6 +10,7 @@ author_profile: true
 
 - Pierre Cortet
 - Vincent David
+- Yu Deng
 - Bérengère Dubrulle
 - Eric Falcon
 - Gregory Falkovich
