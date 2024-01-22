@@ -4,4 +4,4 @@ title: "Application"
 author_profile: true
 ---
 
-Applications will be opened early February.
+Pre-registrations will open early February.
