@@ -8,10 +8,11 @@ author_profile: true
 [//]: # (- Sergey Nazarenko)
 
 
-- Pierre Cortet
-- Vincent David
+- Pierre Cortet 
+- Vincent David 
 - Yu Deng
-- Bérengère Dubrulle
+- Bérengère Dubrulle 
+- Romain Dubessy
 - Eric Falcon
 - Gregory Falkovich
 - Sergey Nazarenko

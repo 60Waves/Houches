@@ -1,14 +1,14 @@
 ---
-title: "Example talk"
+title: "Riding 60 Waves with Sergey Nazarenko"
 collection: talks
 type: "Talk"
 permalink: /talks/nazarenko
-date: 2024-09-03 19:30
-author: "Sergey" 
-excerpt: We describe the singularity...
+date: 2024-09-02 00:00
+author: "TBA" 
+excerpt: TBA
 tags: 
         - singularity
         - cascades
 ---
 
-We describe the singularity formation in kinetic equations.
+TBA
