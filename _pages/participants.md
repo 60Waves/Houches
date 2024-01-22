@@ -11,15 +11,15 @@ author_profile: true
 - Pierre Cortet 
 - Vincent David 
 - Yu Deng
-- Bérengère Dubrulle 
 - Romain Dubessy
+- Bérengère Dubrulle 
 - Eric Falcon
 - Gregory Falkovich
 - Sergey Nazarenko
 - Alan Newell
 - Miguel Onorato
 - Davide Proment
-- Jonathan Skipp
 - Samriddhi Sankar Ray
 - Michal Shavit
+- Jonathan Skipp
 - Ying Zhu 
