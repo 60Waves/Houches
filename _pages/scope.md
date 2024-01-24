@@ -19,5 +19,5 @@ The main themes will be:
 
 # Celebrating the 60th birthday of Sergey Nazarenko
 
-The workshop will be an opportunity to celebrate the 60th birthday of [Sergey Nazarenko](https://scholar.google.fr/citations?user=EPW6UlQAAAAJ&hl=fr), whose work over the past 30 years has significantly contributed to the understanding and research dynamics in wave turbulence.
+The workshop will be an opportunity to celebrate the 60th birthday of [Sergey Nazarenko](https://scholar.google.fr/citations?user=EPW6UlQAAAAJ&hl=fr), whose work over the past 30 years has significantly contributed to the understanding and current research dynamics in wave turbulence.
 
