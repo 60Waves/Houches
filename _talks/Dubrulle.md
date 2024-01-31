@@ -9,8 +9,8 @@ affiliation: "CNRS, SPEC, Université Paris-Saclay"
 excerpt: This talk discusses small scale (sub-Kolmogorov) phenomena and their implications for turbulence theory, using both numerical simulations and a dedicated large turbulent experiment. 
 tags: 
         - beyond
+        - observations
         - Navier-Stokes
-        - experiments
 
 ---
 

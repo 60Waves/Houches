@@ -9,8 +9,8 @@ affiliation: "Laboratoire FAST, CNRS, Université Paris-Saclay"
 excerpt: In this lecture, I will present two recent works, one theoretical and one experimental, which both aim at identifying solutions to the internal gravity wave turbulence problem.
 tags:
         - wave turbulence
+        - observations
         - gravity waves
-        - experiments
 ---
 
 It has long been proposed that small-scale oceanic dynamics results from
