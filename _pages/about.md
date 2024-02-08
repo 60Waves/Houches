@@ -17,7 +17,10 @@ Wave turbulence studies now extend across a variety of physical domains, includi
 - Giorgio Krstulovic
 - Simon Thalabard
 
-*For more information, please feel free to contact any of the organizers.*
+## Contact
+Any inquiry, please write to
+
+workshop.60waves\<AT\>univ-cotedazur.fr
 
 ## Sponsors
 
