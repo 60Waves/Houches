@@ -48,6 +48,6 @@ laboratory observation of a canonical internal gravity wave turbulence.
 
 ## References:
 
-- [N. Lanchon, P.-P. Cortet, Physical Review Letters, 131, 264001 (2023)](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.131.264001)
+- [Lanchon, Cortet, Physical Review Letters, 131, 264001 (2023)](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.131.264001)
 
-- [N. Lanchon, D.O. Mora, E. Monsalve, P.-P. Cortet, Physical Review Fluids, 8, 054802 (2023)](https://journals.aps.org/prfluids/pdf/10.1103/PhysRevFluids.8.054802)
+- [Lanchon, Mora, Monsalve, Cortet, Physical Review Fluids, 8, 054802 (2023)](https://journals.aps.org/prfluids/pdf/10.1103/PhysRevFluids.8.054802)
