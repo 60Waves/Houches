@@ -25,5 +25,5 @@ In 2D I return to wave turbulence, and will summarise how the SHE has a nonlinea
 - [2] C. Colléaux, J. Skipp, J. Laurie, and S. Nazarenko, in preparation.
 - [3] [J. Skipp, V. L’vov, and S. Nazarenko, Physical Review A, 102, 4, 043318, (2020)](https://journals.aps.org/pra/pdf/10.1103/PhysRevA.102.043318?casa_token=pa_uFb3msS4AAAAA%3ATRjBPXPdV3eFrmRdMEYuLVeMNkeeb5--veJFtXp4iZDgC2m7vckAwmtyaKzI62JjIGf2PJjHeHlGQg)
 - [4] [J. Skipp, J. Laurie, and S. Nazarenko, Proc. R. Soc. A, 479, 2275, 20230162, (2023)](https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.2023.0162)
----
+
 
