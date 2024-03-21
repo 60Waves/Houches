@@ -6,7 +6,7 @@ permalink: /talks/Proment
 date: 2024-09-02 00:00
 author: "Davide Proment" 
 affiliation: "Norwich University"
-excerpt:  I will present some work in progress on wave interactions and turbulence in nonlinear optical mesh lattices.  
+excerpt:  I will present some work in progress on wave interactions and turbulence in nonlinear optical mesh lattices.
 tags: 
         - wave turbulence
         - non-linear optics
