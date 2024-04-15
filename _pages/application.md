@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-- Preregistrations are now open: Please fill [this online form](https://enquetes.univ-cotedazur.fr/index.php/777893?lang=en) before **April 15., 2024**
+- Preregistrations are now open: Please fill [this online form](https://enquetes.univ-cotedazur.fr/index.php/777893?lang=en) before <s>April 15., 2024</s>. **Deadline extension until April 30, 2024!**
 
 - Applications from PhD students and early career researchers are encouraged.
 
