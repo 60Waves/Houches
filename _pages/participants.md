@@ -73,6 +73,7 @@ author_profile: true
 - Michal Shavit
 - Vishwanath Shukla
 - Eric Simonnet
+- Ashleigh Simonis
 - Jonathan Skipp
 - Simon	Thalabard
 - Julie	Thomas
