@@ -3,7 +3,7 @@ title: "Wave Turbulence in chains"
 collection: talks
 type: "Talk"
 permalink: /talks/Onorato
-date: 2024-09-02 00:00
+date: 2024-09-02 10:15
 author: "Miguel Onorato" 
 affiliation: "Università di Torino"
 excerpt:  In this presentation, I will provide a critical overview of the outcomes achieved within the framework of one-dimensional chains. 

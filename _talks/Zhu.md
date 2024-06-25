@@ -3,7 +3,7 @@ title: "Universal Scaling States in BEC Wave Turbulence"
 collection: talks
 type: "Talk"
 permalink: /talks/Zhu
-date: 2024-09-02 00:00
+date: 2024-09-05 16:00
 author: "Ying Zhu" 
 affiliation: "Institut de Physique de Nice"
 excerpt: This lecture will explore the forefront of research in Bose-Einstein condensates, focusing on the universal scaling states that signify a fundamental aspect of wave turbulence.

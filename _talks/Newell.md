@@ -3,7 +3,7 @@ title: "Wave turbulence: A story far from over"
 collection: talks
 type: "Talk"
 permalink: /talks/Newell
-date: 2024-09-02 00:00
+date: 2024-09-02 09:00
 author: "Alan Newell" 
 affiliation: "University of Arizona"
 excerpt: Wave turbulence has had many successes, but there are also many open questions and challenges. 

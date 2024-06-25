@@ -3,7 +3,7 @@ title: "Turbulence at the Kolmogorov scale"
 collection: talks
 type: "Talk"
 permalink: /talks/Dubrulle
-date: 2024-09-02 00:00
+date: 2024-09-03 09:00
 author: "Bérengère Dubrulle" 
 affiliation: "CNRS, SPEC, Université Paris-Saclay"
 excerpt: This talk discusses small scale (sub-Kolmogorov) phenomena and their implications for turbulence theory, using both numerical simulations and a dedicated large turbulent experiment. 

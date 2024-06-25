@@ -3,7 +3,7 @@ title: "In search of the energy spectra of internal wave turbulence"
 collection: talks
 type: "Talk"
 permalink: /talks/Cortet
-date: 2024-09-02 00:00
+date: 2024-09-04 10:15
 author: "Pierre-Philippe Cortet" 
 affiliation: "Laboratoire FAST, CNRS, Université Paris-Saclay"
 excerpt: In this lecture, I will present two recent works, one theoretical and one experimental, which both aim at identifying solutions to the internal gravity wave turbulence problem.

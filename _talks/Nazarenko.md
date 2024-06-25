@@ -3,7 +3,7 @@ title: "Spectral diffusion in wave turbulence systems with nonlocal interaction.
 collection: talks
 type: "Talk"
 permalink: /talks/Nazarenko
-date: 2024-09-02 00:00
+date: 2024-09-04 09:00
 author: "Sergey Nazarenko" 
 affiliation: "CNRS/Université Côte d'Azur"
 excerpt:  I will report on our recent work on the four-wave systems, the gravity water waves and the MMT waves. 

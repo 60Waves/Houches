@@ -3,13 +3,10 @@ permalink: /program/
 title: "Program"
 author_profile: true
 ---
-
-To be announced
 <div>
-{% comment %}
-<embed src="{{ site.baseurl }}/files/paper1.pdf" width="600" height="700" type='application/pdf'> 
-{% endcomment %}
+<embed src="{{ site.baseurl }}/files/ProgrammeWaveTurb_v0.pdf" width="450" height="300" type='application/pdf'> 
 </div>
+
 ***
 
 ## Abstracts

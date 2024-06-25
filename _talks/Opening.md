@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/Opening
 affiliation: ""
-date: 2024-09-01 00:00
+date: 2024-09-02 08:50
 author: "" 
 excerpt: ""
 tags: 

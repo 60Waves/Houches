@@ -3,7 +3,7 @@ title: "Experiments in surface-wave turbulence: from weak turbulence to shock wa
 collection: talks
 type: "Talk"
 permalink: /talks/Falcon
-date: 2024-09-02 00:00
+date: 2024-09-06 09:00
 author: "Eric Falcon" 
 affiliation: "CNRS/Université Paris Cité"
 excerpt:  I will review experimental advances in wave turbulence on the surface of a fluid.  

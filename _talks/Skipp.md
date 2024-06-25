@@ -3,7 +3,7 @@ title: "Weak and strong optical turbulence in the Schrödinger Helmholtz Equatio
 collection: talks
 type: "Talk"
 permalink: /talks/Skipp
-date: 2024-09-02 00:00
+date: 2024-09-03 17:15
 author: "Jonathan Skipp" 
 affiliation: "Aston university"
 excerpt:  I will give an overview of results that Sergey has led us to, on the Schrödinger Helmholtz Equation.  

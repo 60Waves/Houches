@@ -3,7 +3,7 @@ title: "Turbulence in superfluids: waves and vortices"
 collection: talks
 type: "Talk"
 permalink: /talks/Dubessy
-date: 2024-09-02 00:00
+date: 2024-09-06 10:15
 author: "Romain Dubessy" 
 affiliation: "Université Sorbonne Paris Nord"
 excerpt: I will give a brief review of experiments with Bose-Einstein condensates.   

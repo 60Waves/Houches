@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/David
 affiliation: "University of New Hampshire"
-date: 2024-09-02 00:00
+date: 2024-09-03 16:00
 author: "Vincent David" 
 excerpt: "This presentation focuses on the turbulent properties of kinetic Alfven waves, which represent the successive stages of the Alfven wave cascade originating from magnetohydrodynamics scales"
 tags: 

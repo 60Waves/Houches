@@ -3,7 +3,7 @@ title: "Long time derivation of wave kinetic equation"
 collection: talks
 type: "Talk"
 permalink: /talks/Deng
-date: 2024-09-02 00:00
+date: 2024-09-05  10:15
 author: "Yu Deng" 
 affiliation: "University of Southern California"
 excerpt:  We obtain the derivation of the wave kinetic equation (WKE) from the cubic nonlinear Schrodinger equation. 

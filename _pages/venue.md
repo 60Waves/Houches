@@ -4,7 +4,9 @@ title: "Venue"
 author_profile: true
 ---
 
-The school will be held in [Les Houches School of Physics](https://www.houches-school-physics.com/ecole-de-physique-des-houches/home-ecole-les-houches-1066564.kjsp)
+<img src="{{ site.baseurl }}/images/Logos2023.svg" alt="Les Houches school of physics" style="height: 100px" > 
+
+The workshop will be held in [Les Houches School of Physics](https://www.houches-school-physics.com/ecole-de-physique-des-houches/home-ecole-les-houches-1066564.kjsp)
 
 Les Houches is a village located in Chamonix valley, in the French Alps.
 Established in 1951, the Physics School is situated at 1150 m above sea level in natural
@@ -22,4 +24,11 @@ the Ecole Normale Supérieure de Lyon (ENS Lyon).
 
 *[https://houches-school-physics.com](https://houches-school-physics.com)*
 
-<img src="{{ site.baseurl }}/images/Logos2023.svg" alt="Les Houches school of physics" style="height: 400px" > 
+
+## Practical information
+- Map
+<div>
+<embed src="{{ site.baseurl }}/files/Map.pdf" width="450" height="300" type='application/pdf'> 
+</div>
+
+- For information on the life of the site, [please read this pdf]({{site.baseurl}}/files/LesHouches.pdf).

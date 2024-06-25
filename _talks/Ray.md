@@ -3,7 +3,7 @@ title: "How different are the worlds of high (inertial)  and low (active) Reynol
 collection: talks
 type: "Talk"
 permalink: /talks/Ray
-date: 2024-09-02 00:00
+date: 2024-09-02 17:15
 author: "Samriddhi Sankar Ray" 
 affiliation: "ICTS Bangalore"
 excerpt: We address active turbulence with a focus on the issues of (approximate) scale-invariance, intermittency and maximally chaotic states and how they lead to anomalous diffusion in bacterial suspensions.
