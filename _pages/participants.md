@@ -36,7 +36,6 @@ author_profile: true
 - Martin Caelen
 - Colm	Connaughton
 - Pierre Cortet
-- Guillaume	Costa
 - Vincent David
 - Giovanni Dematteis
 - Yu Deng
