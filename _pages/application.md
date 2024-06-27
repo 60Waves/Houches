@@ -1,10 +1,19 @@
 ---
 permalink: /application/
-title: "Application"
+title: "Practical information"
 author_profile: true
 ---
 
+### Life on Les Houches site 
 
+- Map
+<div>
+<embed src="{{ site.baseurl }}/files/Map.pdf" width="450" height="300" type='application/pdf'> 
+</div>
+
+- For more information, [please read this pdf]({{site.baseurl}}/files/LesHouches.pdf).
+
+### Registrations
 - Registrations are now closed. 
 
 [//]: # - Applications from PhD students and early career researchers are encouraged.
