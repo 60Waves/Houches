@@ -2,7 +2,7 @@
 
 A Github Page template for the summer school *Physics of Wave turbulence and beyond*, to be held in  *Les Houches* school of physics,  in September 1-6 2024, as part of the [2024 program](https://www.houches-school-physics.com/program/program-2024/program-2024-1305255.kjsp).
 
-latest update: Feb 20, 2024
+latest update: June 27, 2024
 
 ---
 
