@@ -67,6 +67,7 @@ author_profile: true
 - Sergio Rica
 - Vladimir Rosenhaus
 - Samriddhi	Sankar Ray
+- Ilias Sibgatullin
 - Omri	Shaltiel
 - Jalal	Shatah
 - Michal Shavit
