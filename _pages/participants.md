@@ -34,6 +34,7 @@ author_profile: true
 - Miguel Bustamante
 - Anne	Cadiou
 - Martin Caelen
+- Nadine Cetin
 - Colm	Connaughton
 - Pierre Cortet
 - Vincent David
@@ -73,7 +74,6 @@ author_profile: true
 - Michal Shavit
 - Vishwanath Shukla
 - Eric Simonnet
-- Ashleigh Simonis
 - Jonathan Skipp
 - Simon	Thalabard
 - Julie	Thomas

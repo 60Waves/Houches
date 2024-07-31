@@ -8,12 +8,29 @@ author_profile: true
 </div>
 
 ***
+{% assign now = 'now' | date: '%s' %}
 
-## Abstracts
+## Upcoming
 {% for collection in site.collections %}
 {% if collection.label == "talks" %}
   {% for post in collection.docs %}
-  {% include archive-single.html %}
+    {% assign event_time = post.date | date: '%s' %}
+    {% if now < event_time %}
+      {% include archive-single.html %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+{% endfor %}
+
+## Past
+{% assign now = 'now' | date: '%s' %}
+{% for collection in site.collections %}
+{% if collection.label == "talks" %}
+  {% for post in collection.docs %}
+    {% assign event_time = post.date | date: '%s' %}
+    {% if now > event_time %}
+      {% include archive-single.html %}
+    {% endif %}
   {% endfor %}
 {% endif %}
 {% endfor %}
