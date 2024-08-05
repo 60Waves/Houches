@@ -40,6 +40,7 @@ author_profile: true
 - Vincent David
 - Giovanni Dematteis
 - Yu Deng
+- Ryan Doran
 - Romain Dubessy
 - Bérengère	Dubrulle
 - Eric	Falcon
