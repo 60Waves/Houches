@@ -58,7 +58,6 @@ author_profile: true
 - Vitor Lvov
 - Maelys Magnier
 - Lorenzo Manfredini
-- Sergey Medvedev
 - Tommy	Moorcroft
 - Nicolas Muller
 - Alexandre	Nairabeze

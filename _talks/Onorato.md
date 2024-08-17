@@ -1,16 +1,17 @@
 ---
-title: "Wave Turbulence in chains"
+title: "Evidence of nonlinear resonant interactions in ocean waves"
 collection: talks
 type: "Talk"
 permalink: /talks/Onorato
 date: 2024-09-02 10:15
 author: "Miguel Onorato" 
 affiliation: "Università di Torino"
-excerpt:  In this presentation, I will provide a critical overview of the outcomes achieved within the framework of one-dimensional chains. 
+excerpt:  I will present a data set measured from the Acqua Alta Oceanographic Tower place about 15 km from the coast of Venice. 
 tags: 
         - wave turbulence
-        - theory
+        - experiments
+ 
 ---
 
-One-dimensional chains serve as a fundamental model in condensed matter physics, laying the foundation for significant advancements in nonlinear physics and complex systems. The pioneering efforts in this field date back to the 1950s at Los Alamos, with Fermi, Pasta, Ulam, and Tsingou making notable contributions. Over the past 70 years, there has been extensive mathematical and physical research, and a recent perspective on the thermalization mechanisms in such systems has emerged through the Wave Turbulence approach. In this presentation, I will provide a critical overview of the outcomes achieved within this framework.
+Nowadays, using stereo-imaging techniques, it is possible to measure the sea-surface elevation both in time and space. Such measurements represent a perfect tool for establishing the validity of the Wave Turbulence Theory for ocean waves. In the talk I will present a data set measured from the Acqua Alta Oceanographic Tower place about 15 km from the coast of Venice and I will discuss the results in terms of the Wave Turbulence Theory.
 
