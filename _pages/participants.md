@@ -24,6 +24,8 @@ author_profile: true
 [//]: #- Jonathan Skipp
 [//]: #- Ying Zhu 
 
+<img src="{{ site.baseurl }}/images/group_pic1.png" alt="pic1" style="height: 500px" > 
+
 - Wesley Agoua
 - Andrew Bagallay
 - Supratik Banerjee
@@ -82,5 +84,5 @@ author_profile: true
 - Lucas	Zanaglia
 - Ying Zhu
 
-
+<img src="{{ site.baseurl }}/images/group_pic2.png" alt="pic1" style="height: 500px" > 
 
