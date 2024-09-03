@@ -4,7 +4,7 @@ title: "Program"
 author_profile: true
 ---
 <div>
-<embed src="{{ site.baseurl }}/files/ProgrammeWaveTurb_v0.pdf" width="450" height="300" type='application/pdf'> 
+<embed src="{{ site.baseurl }}/files/ProgrammeWaveTurb_v1.pdf" width="450" height="300" type='application/pdf'> 
 </div>
 
 ***
