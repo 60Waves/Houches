@@ -8,6 +8,9 @@ author: "Sergio Rica"
 affiliation: "Pontificia Universidad Católica de Chile"
 excerpt:  
 tags: 
+        - theory
         - beyond
 
 ---
+
+[Slides]({{site.baseurl}}/files/Rica_Presentation.pdf)
