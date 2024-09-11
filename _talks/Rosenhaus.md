@@ -6,7 +6,7 @@ permalink: /talks/Rosenhaus
 date: 2024-09-03 18:15
 author: "Vladimir Rosenhaus" 
 affiliation: "ITS, Cuny"
-excerpt:  
+excerpt:  " "
 tags: 
         - theory
         - beyond
