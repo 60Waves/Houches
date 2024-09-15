@@ -84,5 +84,9 @@ author_profile: true
 - Lucas	Zanaglia
 - Ying Zhu
 
-<img src="{{ site.baseurl }}/images/group_pic2.png" alt="pic1" style="height: 500px" > 
+<img src="{{ site.baseurl }}/images/group_pic2.png" alt="pic2" style="height: 500px" > 
+
+<img src="{{ site.baseurl }}/images/pic_rando.jpg" alt="pic3" style="height: 500px" > 
+
+<img src="{{ site.baseurl }}/images/pic_sheeps.jpg" alt="pic4" style="height: 500px" > 
 

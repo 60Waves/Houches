@@ -25,6 +25,12 @@ the Ecole Normale Supérieure de Lyon (ENS Lyon).
 *[https://houches-school-physics.com](https://houches-school-physics.com)*
 
 
+---
+
+<img src="{{ site.baseurl }}/images/pic_montblanc.jpeg" alt="Mont Blanc" style="height: 500px" > 
+
+---
+
 ## Practical information
 - Map
 <div>
@@ -32,3 +38,4 @@ the Ecole Normale Supérieure de Lyon (ENS Lyon).
 </div>
 
 - For information on the life of the site, [please read this pdf]({{site.baseurl}}/files/LesHouches.pdf).
+

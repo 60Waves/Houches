@@ -26,3 +26,7 @@ To investigate the first one, I will present recent findings from high-resolutio
 - [[2] David, Galtier & Meyrand, Phys. Rev. Lett. (2024)](https://arxiv.org/pdf/2312.14546.pdf)
 
 - [[3] David & Galtier, Astrophys. J. (2019)](https://iopscience.iop.org/article/10.3847/2041-8213/ab2fe6/pdf)
+
+---
+
+<img src="{{ site.baseurl }}/images/pic_David.jpeg" alt="Vincent David" style="height: 400px" > 

@@ -21,7 +21,12 @@ The main themes will be:
 
 The workshop will be an opportunity to celebrate the 60th birthday of [Sergey Nazarenko](https://scholar.google.fr/citations?user=EPW6UlQAAAAJ&hl=fr), whose work over the past 30 years has significantly contributed to the understanding and current research dynamics in wave turbulence.
 
-- Official poster
 <div>
-<embed src="{{ site.baseurl }}/files/poster.pdf" width="450" height="600" type='application/pdf'> 
+<embed src="{{ site.baseurl }}/files/poster.pdf" alt="Official poster" width="450" height="650" type='application/pdf'> 
 </div>
+
+---
+
+<img src="{{ site.baseurl }}/images/pic_SergeyRuns.jpeg" alt="Sergey runs" style="height: 400px" > 
+
+---

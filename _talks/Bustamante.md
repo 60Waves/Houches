@@ -11,3 +11,5 @@ tags:
         - theory
 
 ---
+
+<img src="{{ site.baseurl }}/images/pic_Bustamante.jpeg" alt="Miguel Onorato" style="height: 400px" > 

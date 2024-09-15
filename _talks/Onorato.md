@@ -18,3 +18,7 @@ Nowadays, using stereo-imaging techniques, it is possible to measure the sea-sur
 ---
 
 [Slides]({{site.baseurl}}/files/Onorato_Presentation.pdf)
+
+---
+
+<img src="{{ site.baseurl }}/images/pic_Onorato.jpeg" alt="Miguel Onorato" style="height: 400px" > 

@@ -14,3 +14,7 @@ tags:
 ---
 
 In joint work with Zaher Hani (University of Michigan), we obtain the derivation of the wave kinetic equation (WKE) from the cubic nonlinear Schrodinger equation, up to arbitrarily large multiples of the kinetic time (as long as the solution to WKE exists). This provides the first ever long time derivation result in any (particle or wave) nonlinear kinetic limit.
+
+---
+
+<img src="{{ site.baseurl }}/images/pic_Deng.jpeg" alt="Miguel Onorato" style="height: 400px" > 
