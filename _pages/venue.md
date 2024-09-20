@@ -29,13 +29,3 @@ the Ecole Normale Supérieure de Lyon (ENS Lyon).
 
 <img src="{{ site.baseurl }}/images/pic_montblanc.jpeg" alt="Mont Blanc" style="height: 500px" > 
 
----
-
-## Practical information
-- Map
-<div>
-<embed src="{{ site.baseurl }}/files/Map.pdf" width="450" height="300" type='application/pdf'> 
-</div>
-
-- For information on the life of the site, [please read this pdf]({{site.baseurl}}/files/LesHouches.pdf).
-

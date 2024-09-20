@@ -14,6 +14,7 @@ author_profile: true
 - For more information, [please read this pdf]({{site.baseurl}}/files/LesHouches.pdf).
 
 ### Registrations
+
 - Registrations are now closed. 
 
 [//]: # - Applications from PhD students and early career researchers are encouraged.
