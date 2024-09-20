@@ -6,7 +6,7 @@ permalink: /talks/Bustamante
 date: 2024-09-04 11:30
 author: "Miguel Bustamante" 
 affiliation: "University College Dublin"
-excerpt:  
+excerpt: " " 
 tags: 
         - theory
 

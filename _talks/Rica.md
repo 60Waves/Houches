@@ -6,7 +6,7 @@ permalink: /talks/Rica
 date: 2024-09-02 11:00
 author: "Sergio Rica" 
 affiliation: "Pontificia Universidad Católica de Chile"
-excerpt:  
+excerpt: " "  
 tags: 
         - theory
         - beyond
