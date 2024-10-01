@@ -18,6 +18,8 @@ By integrating theoretical predictions with high-resolution numerical results, t
 
 ---
 
+[Slides]({{site.baseurl}}/files/Zhu_Presentation.pdf)
+
 ---
 
 <img src="{{ site.baseurl }}/images/pic_Zhu.jpeg" alt="Ying Zhu" style="height: 400px" > 
